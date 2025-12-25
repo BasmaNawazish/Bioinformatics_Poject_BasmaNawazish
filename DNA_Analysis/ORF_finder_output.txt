@@ -1,0 +1,10 @@
+ORF was checked by ORF Viewer.
+Total ORFs found for the respective sequence were 13.
+Longer ORF is taken that starts from start codon ATG only.
+Label: ORF1
+Strand: +
+Frame: 1
+Start: 1
+Stop: 1986
+Nucleaotides: 1986
+Amino acids: 661
