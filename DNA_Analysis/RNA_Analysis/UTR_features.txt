@@ -1,0 +1,1 @@
+Domain analysis using Pfam, InterPro, and NCBI CDD did not identify any well-characterized conserved domains. This suggests that the protein may be poorly characterized, novel, or contains domains with low sequence conservation.
