@@ -1,0 +1,5 @@
+GC content of sequence is claculated by BIC.
+Total length of sequence is 2006.
+G comprises 28% while C comprises 29%.
+total GC is 57%.
+Interpretation:High GC content indicates that the gene may be structurally stable and likely originates from a coding region.
