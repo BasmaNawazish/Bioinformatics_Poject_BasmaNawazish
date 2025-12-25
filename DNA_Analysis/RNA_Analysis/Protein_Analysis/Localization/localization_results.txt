@@ -1,0 +1,1 @@
+PSORT features and traditional PSORT prediction plas: 10, golgi: 2, vacu: 1, E.R:1
