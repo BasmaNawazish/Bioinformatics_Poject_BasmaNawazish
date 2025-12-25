@@ -1,0 +1,5 @@
+Number of Amino Acids: 661
+Theoretical pI: 6.73
+Molecular Weight: 74222.47
+Instbility Index: 94.20
+Aliphatic Index: 94.20
